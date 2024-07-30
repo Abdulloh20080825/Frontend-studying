@@ -3,8 +3,8 @@ import LangDatas from './langDatas';
 
 const Main = () => {
 	return (
-		<div className='flex justify-center'>
-			<div className='bg-slate-400 h-[100vh] w-[100%] '>
+		<div className='flex justify-center '>
+			<div className='bg-slate-400 h-[100vh] w-[100%] overflow-scroll '>
 				<p className='text-3xl text-center mt-10'>
 					Project to be a Advenced Frontend development
 				</p>

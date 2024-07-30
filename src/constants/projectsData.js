@@ -23,4 +23,20 @@ var`,
    console.log(variableName)
                 `,
 	},
+	{
+		title: 'My first programm with Data Types in JavaScript',
+		intro:
+			'In JavaScript, data types are the classifications of the different kinds of data that can be stored and manipulated in a program. JavaScript has several built-in data types, which can be divided into two main categories: primitive data types and non-primitive (or reference) data types.',
+		introCode: `boolean - true && false
+string
+number
+undefoned
+null
+symbol`,
+		description:
+			'create a non-changeable variable, give it a boolean value and print it to the console, then create another variable with different data types and print it to the console',
+		projectNumber: 'ex03',
+		code: `const XXXX = XXXX
+   console.log(XXXX)`,
+	},
 ];
